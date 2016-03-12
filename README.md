@@ -1,0 +1,1 @@
+This is a wxWidgets application that extracts links and images from a web page.  Only http is supported, not https.
